@@ -1,221 +1,118 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Muhammed%20Salih%20K%20T&section=header&reversal=false"/>
-  
-  <p>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=Building+Tomorrow+with+Code+🔥;Python+⚡+AI+🤖+Automation+🤖;From+Kerala+to+the+Cloud+☁️;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
-  </p>
-  
-  <!-- Social Badges -->
-  <p>
-    <a href="https://linkedin.com/in/muhdsalihkt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://t.me/muhdsalihkt"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="mailto:muhdsalihkt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://instagram.com/muhdsalihkt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://github.com/muhdsalihkt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  </p>
-
-  <!-- Views & Followers -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=muhdsalihkt&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/muhdsalihkt?label=Followers&style=for-the-badge&color=00ff00" alt="followers" />
-    <img src="https://img.shields.io/github/stars/muhdsalihkt?label=Stars&style=for-the-badge&color=FFD700" alt="stars" />
-  </p>
-</div>
+<h1 align="center">Hi there, I'm Muhammed Salih K T 👋</h1>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=muhdsalihkt&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+  <b>Software Engineer</b> • Python & Django Backend Developer • Full-Stack Enthusiast
+</p>
+
+<p align="center">
+  <a href="mailto:salihkt8129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Location-Kottakkal%2C%20Kerala%2C%20India-green?style=for-the-badge" />
 </p>
 
 ---
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-## 🚀 About Me
-```python
-class AdnanK:
-    def __init__(self):
-        self.name = "Muhammed Adnan K"
-        self.location = "Kerala, India 🇮🇳"
-        self.role = "Python Full Stack Developer"
-        self.passion = ["AI", "Automation", "Open Source", "Community"]
-        self.current_mission = "Turning ideas into scalable reality"
-    
-    def skills(self):
-        return {
-            "Backend": ["Python", "FastAPI", "Flask", "Django"],
-            "Frontend": ["HTML", "CSS", "JavaScript", "Tailwind"],
-            "Databases": ["MongoDB", "PostgreSQL", "Redis"],
-            "DevOps": ["Docker", "Linux", "Vercel", "Heroku"],
-            "Specialty": ["Telegram Bots", "Web Scraping", "Reverse Engineering"]
-        }
-    
-    def mantra(self):
-        return "Code. Learn. Build. Share. Repeat. 🚀"
+## 👨‍💻 About Me
 
-dev = AdnanK()
-print(dev.mantra())
-```
-<br clear="right"/>
+I'm a Computer Science Engineer passionate about building efficient, scalable web applications. I specialize in **Python/Django backend development** and enjoy crafting full-stack solutions that solve real-world problems.
 
-### 🎯 What I'm Building
-- 🔥 Scalable web apps with **FastAPI + React**
-- 🤖 Advanced **Telegram bots** with AI & payments
-- 🧠 AI-powered automation tools
-- ☁️ Cloud-native deployments (Docker + CI/CD)
-- 🌟 Leading **@AiTechWaveML** – Kerala's largest AI community (Malayalam)
+- 🔭 Currently working as a **Software Engineer Intern** at Febno Technologies
+- 🎓 B.Tech in Computer Science & Engineering from Royal College of Engineering and Technology
+- 🌱 Continuously learning and exploring new technologies
+- ⚡ Fun fact: I built an AI virtual mouse that replaces physical hardware using just hand gestures!
 
 ---
-## 🛠️ Tech Stack & Tools
-<div align="center">
 
-### Languages & Frameworks
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,fastapi,flask,tailwind,bootstrap&perline=8" />
+## 🛠️ Tech Stack
 
-### Databases & Cloud
-<img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis,supabase,vercel,heroku,netlify&perline=8" />
+**Languages**
 
-### Tools & DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,figma,notion&perline=8" />
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-</div>
+**Frameworks & Libraries**
 
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat-square&logo=google&logoColor=white)
 
-## 📊 GitHub Analytics
+**Databases**
 
-<div align="center">
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 
-| 🏆 Total Repos | ⭐ Total Stars | � Public Gists | � Followers |
-|:--------------:|:--------------:|:---------------:|:------------:|
-| ![Repos](https://img.shields.io/badge/dynamic/json?color=00ff00&label=Repos&query=public_repos&url=https://api.github.com/users/muhdsalihkt&style=for-the-badge&logo=github&cacheSeconds=300) | ![Stars](https://img.shields.io/github/stars/muhdsalihkt?style=for-the-badge&color=FFD700&logo=github&cacheSeconds=300&affiliations=OWNER) | ![Gists](https://img.shields.io/badge/dynamic/json?color=blue&label=Gists&query=public_gists&url=https://api.github.com/users/muhdsalihkt&style=for-the-badge&logo=github&cacheSeconds=300) | ![Followers](https://img.shields.io/github/followers/muhdsalihkt?style=for-the-badge&color=orange&logo=github&cacheSeconds=300) |
+**Tools**
 
-</div>
-
----
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhdsalihkt&theme=react-dark&area=true&hide_border=true)
-
----
-## 🐍 Contribution Snake
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> **📝 Note**: This uses a demo animation. To generate your own, fork [Platane's Snake Generator](https://github.com/Platane/snk) and update the URLs above.
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
 
 ---
-## 🚀 Skills Matrix
-<div align="center">
 
-```mermaid
-mindmap
-  root((Adnan K))
-    Backend Mastery
-      FastAPI & Flask
-      REST & GraphQL
-      Microservices
-    Frontend Craft
-      Responsive Design
-      Tailwind CSS
-      Alpine.js
-    AI & Automation
-      LLM Integration
-      Telegram Bots
-      Scraping Tools
-    DevOps Flow
-      Docker + CI/CD
-      Linux Admin
-      Cloud Deployments
-    Community Leader
-      @AiTechWaveML
-      10K+ Members
-      Malayalam Tech
-```
+## 💼 Experience
 
-</div>
+### 🏢 Software Engineer Intern — Febno Technologies *(Aug 2025 – Feb 2026)*
+> Kakkanchery, Kerala
+
+- Developed and maintained **RESTful APIs** using Python, Django & Django REST Framework
+- Built backend logic for **authentication systems**, CRUD operations and role-based access control
+- Integrated **PostgreSQL** for efficient data storage and retrieval
+- Built responsive and interactive **user interfaces** using React, HTML and CSS
+- Maintained clean code standards and managed version control using **Git & GitHub**
 
 ---
-## 🌱 Currently Mastering
-<div align="center">
 
-| Skill                  | Progress | Target |
-|------------------------|----------|--------|
-| 🤖 Machine Learning    | ![80%](https://progress-bar.dev/80?color=00ff00&width=120) | Production ML |
-| ☁️ AWS & Azure         | ![70%](https://progress-bar.dev/70?color=00aaff&width=120) | Certified |
-| ⚡ React + Next.js      | ![75%](https://progress-bar.dev/75?color=61dafb&width=120) | Full-Stack Pro |
-| 🔐 Ethical Hacking     | ![65%](https://progress-bar.dev/65?color=ff0000&width=120) | Bug Bounty |
-| 🐙 Kubernetes          | ![50%](https://progress-bar.dev/50?color=326ce5&width=120) | Orchestration |
+## 🚀 Projects
 
-</div>
+### 🖱️ AI Virtual Mouse — *Computer Vision Project*
+> **Tech Stack:** Python · OpenCV · MediaPipe
 
----
-## 📈 Weekly Coding Activity
-<!--START_SECTION:waka-->
-```text
-Python       14 hrs 20 mins   ████████████████░░░░░   72.1%
-JavaScript   3 hrs 50 mins    ████░░░░░░░░░░░░░░░░░   19.3%
-HTML/CSS     1 hr 40 mins     ██░░░░░░░░░░░░░░░░░░░   8.4%
-SQL          30 mins          █░░░░░░░░░░░░░░░░░░░░   2.5%
-```
-<!--END_SECTION:waka-->
+An AI-powered virtual mouse system that eliminates the need for physical hardware by interpreting real-time hand gestures.
 
-> **💡 To enable auto-updating stats**: Check out [WakaTime GitHub Action](https://github.com/athul/waka-readme) for automatic weekly updates!
+- 🤚 Tracks hand landmarks in real-time using **MediaPipe** and **OpenCV**
+- 🖱️ Maps finger gestures to cursor movement, left-click, and right-click actions
+- ⚡ Optimized gesture detection pipeline for improved accuracy and low-latency responsiveness
+- 🔬 Enhances human-computer interaction through touchless control
 
 ---
-## 💡 Fun Facts About Me
-<div align="center">
 
-🎯 **Code by night, debug by day** ☕  
-🎮 **Gamer turned developer** 🕹️  
-📚 **Tech book collector** (200+ PDFs organized perfectly)  
-🌍 **Open source advocate** – love contributing & learning  
-🎵 **Lofi beats** = Peak productivity mode  
-💬 **Tamil & Malayalam speaker** – bridging tech in regional languages  
+## 🎓 Education
 
-</div>
+| Degree | Institution | Year |
+|--------|-------------|------|
+| B.Tech – Computer Science & Engineering | Royal College of Engineering and Technology, Thrissur | 2021 – 2025 |
+| Higher Secondary Education | MSM HSS Kallingalparamba, Malappuram | 2019 – 2021 |
 
 ---
-## 🤝 Let's Connect!
-<div align="center">
 
-| Platform       | Link                                                    | Purpose                     |
-|----------------|---------------------------------------------------------|-----------------------------|
-| 💼 LinkedIn    | [muhdsalihkt](https://linkedin.com/in/muhdsalihkt) | Professional & Networking   |
-| 💬 Telegram    | [@muhdsalihkt](https://t.me/muhdsalihkt)                    | Quick Chats & Collabs       |
-| 📧 Email       | [muhdsalihkt@gmail.com](mailto:muhdsalihkt@gmail.com)       | Projects & Opportunities    |
-| 🚀 Community   | [@AiTechWaveML](https://t.me/AITechWaveML)              | **AI Updates in Malayalam** |
+## 📜 Certifications
 
-<a href="https://t.me/AITechWaveML">
-  <img src="https://img.shields.io/badge/Join%20AiTechWaveML-10K%2B%20Members-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-</div>
+- 🎖️ **Google's Generative AI with Google Cloud Workshop** — Jan 2025
+- 🎖️ **IBM Watsonx Workshop** — Jan 2025
 
 ---
-## 📌 Quick Links
-<div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhdsalihkt.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume-link)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://muhdsalihkt.hashnode.dev)
+## 🤝 Soft Skills
 
-</div>
+`Problem-Solving` &nbsp; `Teamwork` &nbsp; `Critical Thinking` &nbsp; `Communication`
 
 ---
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,29&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&animation=twinkling"/>
-  
-  <p>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=00FF41&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+like+them!;🤝+Open+to+collabs+and+freelance;🚀+Let's+build+something+epic+together!" />
-  </p>
 
-  <p>
-    <img src="https://media.giphy.com/media/M9gbBd9oNEd1OBk2tE/giphy.gif" width="60"/>
-    <i><b>Love connecting with builders!</b> Drop a Hi on Telegram – I reply to everyone 😊</i>
-  </p>
+## 📊 GitHub Stats
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
+---
 
-  <sub>✨ <b>Crafted with ❤️, ☕ and countless hours of coding by Muhammed Adnan K</b> ✨</sub>
+<p align="center">
+  <i>Let's connect and build something amazing together!</i><br/>
+  <a href="mailto:salihkt8129@gmail.com">📬 salihkt8129@gmail.com</a> &nbsp;|&nbsp; 📞 +91 8129897638
+</p>
