@@ -7,23 +7,23 @@
   
   <!-- Social Badges -->
   <p>
-    <a href="https://linkedin.com/in/muhammedadnank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://t.me/adnanxpkd"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-    <a href="mailto:adnanxpkd@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://instagram.com/adnanxpkd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-    <a href="https://github.com/muhammedadnank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://linkedin.com/in/muhdsalihkt"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="https://t.me/muhdsalihkt"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
+    <a href="mailto:muhdsalihkt@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://instagram.com/muhdsalihkt"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+    <a href="https://github.com/muhdsalihkt"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   </p>
 
   <!-- Views & Followers -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=muhammedadnank&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/muhammedadnank?label=Followers&style=for-the-badge&color=00ff00" alt="followers" />
-    <img src="https://img.shields.io/github/stars/muhammedadnank?label=Stars&style=for-the-badge&color=FFD700" alt="stars" />
+    <img src="https://komarev.com/ghpvc/?username=muhdsalihkt&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/muhdsalihkt?label=Followers&style=for-the-badge&color=00ff00" alt="followers" />
+    <img src="https://img.shields.io/github/stars/muhdsalihkt?label=Stars&style=for-the-badge&color=FFD700" alt="stars" />
   </p>
 </div>
 
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=muhammedadnank&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=muhdsalihkt&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 ---
@@ -85,12 +85,12 @@ print(dev.mantra())
 
 | 🏆 Total Repos | ⭐ Total Stars | � Public Gists | � Followers |
 |:--------------:|:--------------:|:---------------:|:------------:|
-| ![Repos](https://img.shields.io/badge/dynamic/json?color=00ff00&label=Repos&query=public_repos&url=https://api.github.com/users/muhammedadnank&style=for-the-badge&logo=github&cacheSeconds=300) | ![Stars](https://img.shields.io/github/stars/muhammedadnank?style=for-the-badge&color=FFD700&logo=github&cacheSeconds=300&affiliations=OWNER) | ![Gists](https://img.shields.io/badge/dynamic/json?color=blue&label=Gists&query=public_gists&url=https://api.github.com/users/muhammedadnank&style=for-the-badge&logo=github&cacheSeconds=300) | ![Followers](https://img.shields.io/github/followers/muhammedadnank?style=for-the-badge&color=orange&logo=github&cacheSeconds=300) |
+| ![Repos](https://img.shields.io/badge/dynamic/json?color=00ff00&label=Repos&query=public_repos&url=https://api.github.com/users/muhdsalihkt&style=for-the-badge&logo=github&cacheSeconds=300) | ![Stars](https://img.shields.io/github/stars/muhdsalihkt?style=for-the-badge&color=FFD700&logo=github&cacheSeconds=300&affiliations=OWNER) | ![Gists](https://img.shields.io/badge/dynamic/json?color=blue&label=Gists&query=public_gists&url=https://api.github.com/users/muhdsalihkt&style=for-the-badge&logo=github&cacheSeconds=300) | ![Followers](https://img.shields.io/github/followers/muhdsalihkt?style=for-the-badge&color=orange&logo=github&cacheSeconds=300) |
 
 </div>
 
 ---
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammedadnank&theme=react-dark&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhdsalihkt&theme=react-dark&area=true&hide_border=true)
 
 ---
 ## 🐍 Contribution Snake
@@ -181,9 +181,9 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 
 | Platform       | Link                                                    | Purpose                     |
 |----------------|---------------------------------------------------------|-----------------------------|
-| 💼 LinkedIn    | [muhammedadnank](https://linkedin.com/in/muhammedadnank) | Professional & Networking   |
-| 💬 Telegram    | [@adnanxpkd](https://t.me/adnanxpkd)                    | Quick Chats & Collabs       |
-| 📧 Email       | [adnanxpkd@gmail.com](mailto:adnanxpkd@gmail.com)       | Projects & Opportunities    |
+| 💼 LinkedIn    | [muhdsalihkt](https://linkedin.com/in/muhdsalihkt) | Professional & Networking   |
+| 💬 Telegram    | [@muhdsalihkt](https://t.me/muhdsalihkt)                    | Quick Chats & Collabs       |
+| 📧 Email       | [muhdsalihkt@gmail.com](mailto:muhdsalihkt@gmail.com)       | Projects & Opportunities    |
 | 🚀 Community   | [@AiTechWaveML](https://t.me/AITechWaveML)              | **AI Updates in Malayalam** |
 
 <a href="https://t.me/AITechWaveML">
@@ -196,9 +196,9 @@ SQL          30 mins          █░░░░░░░░░░░░░░░�
 ## 📌 Quick Links
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhammedadnank.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muhdsalihkt.vercel.app)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume-link)
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://adnanxpkd.hashnode.dev)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://muhdsalihkt.hashnode.dev)
 
 </div>
 
