@@ -1,118 +1,269 @@
-<h1 align="center">Hi there, I'm Muhammed Salih K T 👋</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=200&section=header&text=Muhammed%20Salih%20K%20T&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Django%20Backend%20%7C%20React%20%7C%20AI%20Explorer&descSize=18&descAlignY=55"/>
 
-<p align="center">
-  <b>Software Engineer</b> • Python & Django Backend Developer • Full-Stack Enthusiast
-</p>
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backends+⚙️;Python+%7C+Django+%7C+React+%7C+PostgreSQL;From+Kerala+to+the+Cloud+☁️;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
+  </p>
 
-<p align="center">
-  <a href="mailto:salihkt8129@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Kottakkal%2C%20Kerala%2C%20India-green?style=for-the-badge" />
-</p>
+  <!-- Social Badges -->
+  <p>
+    <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:salihkt8129@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a Computer Science Engineer passionate about building efficient, scalable web applications. I specialize in **Python/Django backend development** and enjoy crafting full-stack solutions that solve real-world problems.
-
-- 🔭 Currently working as a **Software Engineer Intern** at Febno Technologies
-- 🎓 B.Tech in Computer Science & Engineering from Royal College of Engineering and Technology
-- 🌱 Continuously learning and exploring new technologies
-- ⚡ Fun fact: I built an AI virtual mouse that replaces physical hardware using just hand gestures!
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Frameworks & Libraries**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST%20Framework-ff1709?style=flat-square&logo=django&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=flat-square&logo=google&logoColor=white)
-
-**Databases**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+  <!-- Views & Followers -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00bfff" alt="followers" />
+    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=FFD700" alt="stars" />
+  </p>
+</div>
 
 ---
 
-## 💼 Experience
+<img align="right" alt="Coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+## 🚀 About Me
+
+```python
+class MuhammedSalih:
+    def __init__(self):
+        self.name       = "Muhammed Salih K T"
+        self.location   = "Kottakkal, Kerala, India 🇮🇳"
+        self.role       = "Software Engineer"
+        self.education  = "B.Tech CSE – Royal College of Engineering"
+        self.passion    = ["Backend Dev", "Full-Stack", "AI/CV", "Clean Code"]
+        self.mission    = "Building efficient software that actually works"
+
+    def skills(self):
+        return {
+            "Backend"   : ["Python", "Django", "Django REST Framework"],
+            "Frontend"  : ["React.js", "HTML", "CSS", "JavaScript"],
+            "Databases" : ["PostgreSQL", "MySQL"],
+            "CV / AI"   : ["OpenCV", "MediaPipe"],
+            "Tools"     : ["Git", "GitHub", "REST APIs"]
+        }
+
+    def currently(self):
+        return "Interning @ Febno Technologies 🏢"
+
+    def mantra(self):
+        return "Code smart. Build clean. Ship fast. 🚀"
+
+dev = MuhammedSalih()
+print(dev.mantra())
+```
+
+<br clear="right"/>
+
+### 🎯 What I'm Working On
+- ⚙️ Building production-ready **RESTful APIs** with Django REST Framework
+- 🔐 Implementing **auth systems** and role-based access control
+- ⚛️ Crafting responsive **React UIs** for full-stack apps
+- 🖱️ Experimenting with **AI & Computer Vision** projects
+- 🌱 Levelling up on cloud deployments and DevOps
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,django,react&perline=6" />
+
+### Databases & Tools
+<img src="https://skillicons.dev/icons?i=postgresql,mysql,git,github,vscode,postman&perline=6" />
+
+### AI / Computer Vision
+<img src="https://skillicons.dev/icons?i=opencv&perline=6" />
+&nbsp;
+<img src="https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white"/>
+
+</div>
+
+---
+
+## 💼 Professional Experience
 
 ### 🏢 Software Engineer Intern — Febno Technologies *(Aug 2025 – Feb 2026)*
-> Kakkanchery, Kerala
+> 📍 Kakkanchery, Kerala
 
-- Developed and maintained **RESTful APIs** using Python, Django & Django REST Framework
-- Built backend logic for **authentication systems**, CRUD operations and role-based access control
-- Integrated **PostgreSQL** for efficient data storage and retrieval
-- Built responsive and interactive **user interfaces** using React, HTML and CSS
-- Maintained clean code standards and managed version control using **Git & GitHub**
+- 🔧 Developed and maintained **RESTful APIs** using Python, Django & Django REST Framework
+- 🔐 Built backend logic for **authentication**, CRUD operations & role-based access control
+- 🗄️ Integrated **PostgreSQL** for efficient data storage and retrieval
+- ⚛️ Built responsive & interactive **user interfaces** using React, HTML and CSS
+- 🧹 Maintained clean code standards; version control with **Git & GitHub**
 
 ---
 
 ## 🚀 Projects
 
 ### 🖱️ AI Virtual Mouse — *Computer Vision Project*
-> **Tech Stack:** Python · OpenCV · MediaPipe
+> **Tech:** Python · OpenCV · MediaPipe
 
-An AI-powered virtual mouse system that eliminates the need for physical hardware by interpreting real-time hand gestures.
+> Eliminate the physical mouse — control your computer with hand gestures in real time.
 
-- 🤚 Tracks hand landmarks in real-time using **MediaPipe** and **OpenCV**
-- 🖱️ Maps finger gestures to cursor movement, left-click, and right-click actions
-- ⚡ Optimized gesture detection pipeline for improved accuracy and low-latency responsiveness
-- 🔬 Enhances human-computer interaction through touchless control
+- 🤚 Real-time **hand landmark detection** using MediaPipe & OpenCV
+- 🖱️ Finger gestures mapped to **cursor movement, left-click & right-click**
+- ⚡ Optimized detection pipeline for **low-latency & high accuracy**
+- 🔬 A step toward touchless, accessible **human-computer interaction**
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Analytics
 
-| Degree | Institution | Year |
-|--------|-------------|------|
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+</div>
+
+<div align="center">
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&area=true&hide_border=true)
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+</div>
+
+> **📝 Note**: To generate your own snake, fork [Platane's Snake Generator](https://github.com/Platane/snk) and update the URLs above.
+
+---
+
+## 🚀 Skills Matrix
+
+<div align="center">
+
+```mermaid
+mindmap
+  root((Salih K T))
+    Backend Mastery
+      Python & Django
+      REST APIs
+      Auth & RBAC
+    Frontend Craft
+      React.js
+      Responsive UI
+      HTML & CSS
+    Database
+      PostgreSQL
+      MySQL
+    AI & Vision
+      OpenCV
+      MediaPipe
+      Gesture Control
+    Dev Practices
+      Git & GitHub
+      Clean Code
+      Debugging
+```
+
+</div>
+
+---
+
+## 🎓 Education & Certifications
+
+<div align="center">
+
+| 🎓 Degree | 🏫 Institution | 📅 Year |
+|-----------|---------------|---------|
 | B.Tech – Computer Science & Engineering | Royal College of Engineering and Technology, Thrissur | 2021 – 2025 |
-| Higher Secondary Education | MSM HSS Kallingalparamba, Malappuram | 2019 – 2021 |
+| Higher Secondary | MSM HSS Kallingalparamba, Malappuram | 2019 – 2021 |
+
+### 🏅 Certifications
+🎖️ **Google's Generative AI with Google Cloud Workshop** — Jan 2025  
+🎖️ **IBM Watsonx Workshop** — Jan 2025
+
+</div>
 
 ---
 
-## 📜 Certifications
+## 🌱 Currently Mastering
 
-- 🎖️ **Google's Generative AI with Google Cloud Workshop** — Jan 2025
-- 🎖️ **IBM Watsonx Workshop** — Jan 2025
+<div align="center">
 
----
+| Skill | Progress | Goal |
+|-------|----------|------|
+| 🐍 Advanced Django & DRF | ![85%](https://progress-bar.dev/85?color=00bfff&width=120) | Production APIs |
+| ⚛️ React + Next.js | ![70%](https://progress-bar.dev/70?color=61dafb&width=120) | Full-Stack Pro |
+| 🗄️ PostgreSQL Advanced | ![75%](https://progress-bar.dev/75?color=336791&width=120) | DB Optimization |
+| ☁️ Docker & Deployment | ![55%](https://progress-bar.dev/55?color=2496ED&width=120) | Cloud-Native |
+| 🤖 Machine Learning | ![50%](https://progress-bar.dev/50?color=ff9900&width=120) | Applied AI |
 
-## 🤝 Soft Skills
-
-`Problem-Solving` &nbsp; `Teamwork` &nbsp; `Critical Thinking` &nbsp; `Communication`
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <i>Let's connect and build something amazing together!</i><br/>
-  <a href="mailto:salihkt8129@gmail.com">📬 salihkt8129@gmail.com</a> &nbsp;|&nbsp; 📞 +91 8129897638
-</p>
+## 💡 Fun Facts About Me
+
+<div align="center">
+
+🎯 **Backend by heart, full-stack by skill** ⚙️  
+🖱️ **Built a mouse without a mouse** — just hands and code!  
+📚 **CS fundamentals enthusiast** — loves understanding the *why*  
+🌍 **Open source curious** – always exploring new repos  
+☕ **Coffee + dark mode** = maximum focus mode  
+💬 **Malayalam speaker** bridging regional tech  
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+| Platform | Link | Purpose |
+|----------|------|---------|
+| 💼 LinkedIn | [muhammed-salih-k-t](https://linkedin.com/in/your-linkedin) | Professional & Networking |
+| 📧 Email | [salihkt8129@gmail.com](mailto:salihkt8129@gmail.com) | Projects & Opportunities |
+| 🐙 GitHub | [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME) | Code & Collaboration |
+
+</div>
+
+---
+
+## 📌 Quick Links
+
+<div align="center">
+
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/your-resume-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salihkt8129@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=32&animation=twinkling"/>
+
+  <p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&color=00BFFF&center=true&vCenter=true&width=600&lines=⭐+Star+my+repos+if+you+find+them+useful!;🤝+Open+to+collaborations+%26+opportunities;🚀+Let's+build+something+amazing+together!" />
+  </p>
+
+  <p>
+    <img src="https://media.giphy.com/media/M9gbBd9oNEd1OBk2tE/giphy.gif" width="60"/>
+    <i><b>Always open to connecting with fellow builders!</b> Drop me a Hi anytime 😊</i>
+  </p>
+
+  <sub>✨ <b>Crafted with ❤️, ☕ and a love for clean code by Muhammed Salih K T</b> ✨</sub>
+</div>
