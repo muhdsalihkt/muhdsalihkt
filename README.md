@@ -133,19 +133,6 @@ print(dev.mantra())
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</div>
-
-> **📝 Note**: To generate your own snake, fork [Platane's Snake Generator](https://github.com/Platane/snk) and update the URLs above.
-
----
 
 ## 🚀 Skills Matrix
 
@@ -177,55 +164,7 @@ mindmap
 
 </div>
 
----
 
-## 🎓 Education & Certifications
-
-<div align="center">
-
-| 🎓 Degree | 🏫 Institution | 📅 Year |
-|-----------|---------------|---------|
-| B.Tech – Computer Science & Engineering | Royal College of Engineering and Technology, Thrissur | 2021 – 2025 |
-| Higher Secondary | MSM HSS Kallingalparamba, Malappuram | 2019 – 2021 |
-
-### 🏅 Certifications
-🎖️ **Google's Generative AI with Google Cloud Workshop** — Jan 2025  
-🎖️ **IBM Watsonx Workshop** — Jan 2025
-
-</div>
-
----
-
-## 🌱 Currently Mastering
-
-<div align="center">
-
-| Skill | Progress | Goal |
-|-------|----------|------|
-| 🐍 Advanced Django & DRF | ![85%](https://progress-bar.dev/85?color=00bfff&width=120) | Production APIs |
-| ⚛️ React + Next.js | ![70%](https://progress-bar.dev/70?color=61dafb&width=120) | Full-Stack Pro |
-| 🗄️ PostgreSQL Advanced | ![75%](https://progress-bar.dev/75?color=336791&width=120) | DB Optimization |
-| ☁️ Docker & Deployment | ![55%](https://progress-bar.dev/55?color=2496ED&width=120) | Cloud-Native |
-| 🤖 Machine Learning | ![50%](https://progress-bar.dev/50?color=ff9900&width=120) | Applied AI |
-
-</div>
-
----
-
-## 💡 Fun Facts About Me
-
-<div align="center">
-
-🎯 **Backend by heart, full-stack by skill** ⚙️  
-🖱️ **Built a mouse without a mouse** — just hands and code!  
-📚 **CS fundamentals enthusiast** — loves understanding the *why*  
-🌍 **Open source curious** – always exploring new repos  
-☕ **Coffee + dark mode** = maximum focus mode  
-💬 **Malayalam speaker** bridging regional tech  
-
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
