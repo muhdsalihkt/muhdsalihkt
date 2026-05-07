@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=200&section=header&text=Muhammed%20Salih%20K%20T&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Django%20Backend%20%7C%20React%20%7C%20AI%20Explorer&descSize=18&descAlignY=55"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,24,30&height=200&section=header&text=Muhammed%20Salih%20K%20T&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20"/>
 
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=800&color=00BFFF&center=true&vCenter=true&width=600&lines=Building+Scalable+Backends+⚙️;Python+%7C+Django+%7C+React+%7C+PostgreSQL;From+Kerala+to+the+Cloud+☁️;Always+Learning%2C+Always+Shipping+🚀" alt="Typing SVG" />
@@ -13,11 +13,7 @@
   </p>
 
   <!-- Views & Followers -->
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=for-the-badge&color=00bfff" alt="followers" />
-    <img src="https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME?label=Stars&style=for-the-badge&color=FFD700" alt="stars" />
-  </p>
+  
 </div>
 
 ---
